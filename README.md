@@ -15,7 +15,7 @@ This guide will help you install, fix errors, and use Delta Executor without iss
 
 ## ❗ Fix Common Errors
 If Delta Executor is not working, check this guide:
-👉 https://yourwebsite.com/fix-errors
+👉 https://deltaexecotr.com/errors-guide/
 
 ## 📱 Android Support
 Works on most updated Android devices.
